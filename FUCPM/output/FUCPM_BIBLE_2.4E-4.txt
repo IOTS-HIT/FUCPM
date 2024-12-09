@@ -1,0 +1,8 @@
+=============  FUCPM ALGORITHM v1.0 - STATS ==========
+ Minimum utility threshold ~ 3076.23336 
+ Total time ~ 10.308 s
+ Max memory ~ 853.4111099243164 MB
+ Number of candidates ~ 24276 
+ Number of HUCSPs ~ 2833 
+ Number of unpromising items ~ 9577 
+ Number of distinct items ~ 13905 

@@ -1,0 +1,6 @@
+=============  HUSP-ULL ALGORITHM - STATS ============ 
+Minimum utility threshold ~ 3076.23336 
+Total time ~ 20.832 s 
+Max Memory ~ 618.5159606933594 MB 
+Number of candidates ~ 17537 
+Number of HUCSPs ~ 2833 

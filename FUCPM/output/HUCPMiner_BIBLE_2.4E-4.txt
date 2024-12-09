@@ -1,0 +1,8 @@
+============= HUCPMiner ALGORITHM v1.0 - STATS ==========
+ Minimum utility threshold ~ 3076.23336 
+ Total time ~ 32.026 s
+ Max Memory ~ 1210.1879806518555 MB
+ Number of unpromising items ~ 9451 
+ Number of distinct items ~ 13905 
+ Number of candidates ~ 357971 
+ Number of High-utility sequential pattern ~ 2833
